@@ -5,7 +5,7 @@ Ejemplo joystick Kotlin android
 Añadir en dependencias:
 
 ```
-    compile 'com.github.eigenein:joypad-android:5'
+  compile 'com.github.eigenein:joypad-android:5'
 ```
 Y en repositorios:
 ```
